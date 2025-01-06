@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+psycopg2-binary
+passlib
+python-jose
+python-dotenv
+alembic
+python-multipart
+pytest
+APScheduler
+redis
+httpx
+pytest-asyncio
+pytest-cov

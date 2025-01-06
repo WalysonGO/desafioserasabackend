@@ -1,0 +1,1712 @@
+[
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "DebtCreate",
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "isExtraImport": true,
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "DebtStatus",
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "isExtraImport": true,
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "isExtraImport": true,
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "isExtraImport": true,
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "isExtraImport": true,
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "DebtCreate",
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "isExtraImport": true,
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "DebtResponse",
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "isExtraImport": true,
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "isExtraImport": true,
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "isExtraImport": true,
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "create_debt",
+        "importPath": "app.services.debt_service",
+        "description": "app.services.debt_service",
+        "isExtraImport": true,
+        "detail": "app.services.debt_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_debts",
+        "importPath": "app.services.debt_service",
+        "description": "app.services.debt_service",
+        "isExtraImport": true,
+        "detail": "app.services.debt_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_debt",
+        "importPath": "app.services.debt_service",
+        "description": "app.services.debt_service",
+        "isExtraImport": true,
+        "detail": "app.services.debt_service",
+        "documentation": {}
+    },
+    {
+        "label": "delete_debt",
+        "importPath": "app.services.debt_service",
+        "description": "app.services.debt_service",
+        "isExtraImport": true,
+        "detail": "app.services.debt_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_financial_summary",
+        "importPath": "app.services.debt_service",
+        "description": "app.services.debt_service",
+        "isExtraImport": true,
+        "detail": "app.services.debt_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_status_to_paid",
+        "importPath": "app.services.debt_service",
+        "description": "app.services.debt_service",
+        "isExtraImport": true,
+        "detail": "app.services.debt_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "isExtraImport": true,
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "isExtraImport": true,
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "isExtraImport": true,
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "isExtraImport": true,
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_token",
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "isExtraImport": true,
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "importPath": "app.services.user_service",
+        "description": "app.services.user_service",
+        "isExtraImport": true,
+        "detail": "app.services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_user",
+        "importPath": "app.services.user_service",
+        "description": "app.services.user_service",
+        "isExtraImport": true,
+        "detail": "app.services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_overdue_debts",
+        "importPath": "app.services.user_service",
+        "description": "app.services.user_service",
+        "isExtraImport": true,
+        "detail": "app.services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Date",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "case",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "asc",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "sqlalchemy.dialects.postgresql",
+        "description": "sqlalchemy.dialects.postgresql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.postgresql",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "sqlalchemy.dialects.postgresql",
+        "description": "sqlalchemy.dialects.postgresql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.postgresql",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "Debt",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Debt",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "DebtStatus",
+        "importPath": "app.models.debt",
+        "description": "app.models.debt",
+        "isExtraImport": true,
+        "detail": "app.models.debt",
+        "documentation": {}
+    },
+    {
+        "label": "Debt",
+        "importPath": "app.models.debt",
+        "description": "app.models.debt",
+        "isExtraImport": true,
+        "detail": "app.models.debt",
+        "documentation": {}
+    },
+    {
+        "label": "ceil",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "load_env",
+        "importPath": "app.utils.env_loader",
+        "description": "app.utils.env_loader",
+        "isExtraImport": true,
+        "detail": "app.utils.env_loader",
+        "documentation": {}
+    },
+    {
+        "label": "load_env",
+        "importPath": "app.utils.env_loader",
+        "description": "app.utils.env_loader",
+        "isExtraImport": true,
+        "detail": "app.utils.env_loader",
+        "documentation": {}
+    },
+    {
+        "label": "load_env",
+        "importPath": "app.utils.env_loader",
+        "description": "app.utils.env_loader",
+        "isExtraImport": true,
+        "detail": "app.utils.env_loader",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "user_router",
+        "importPath": "app.controllers.user_controller",
+        "description": "app.controllers.user_controller",
+        "isExtraImport": true,
+        "detail": "app.controllers.user_controller",
+        "documentation": {}
+    },
+    {
+        "label": "debt_router",
+        "importPath": "app.controllers.debt_controller",
+        "description": "app.controllers.debt_controller",
+        "isExtraImport": true,
+        "detail": "app.controllers.debt_controller",
+        "documentation": {}
+    },
+    {
+        "label": "BackgroundScheduler",
+        "importPath": "apscheduler.schedulers.background",
+        "description": "apscheduler.schedulers.background",
+        "isExtraImport": true,
+        "detail": "apscheduler.schedulers.background",
+        "documentation": {}
+    },
+    {
+        "label": "atexit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "atexit",
+        "description": "atexit",
+        "detail": "atexit",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app.main",
+        "description": "app.main",
+        "isExtraImport": true,
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app.main",
+        "description": "app.main",
+        "isExtraImport": true,
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "Mock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "patch",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "patch",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "add_debt",
+        "kind": 2,
+        "importPath": "app.controllers.debt_controller",
+        "description": "app.controllers.debt_controller",
+        "peekOfCode": "def add_debt(debt: DebtCreate, user: dict = Depends(get_current_user), db: Session = Depends(get_db)):\n    return create_debt(debt, db, user=user)\n@debt_router.get(\"/\", response_model=dict)\ndef list_debts(\n    db: Session = Depends(get_db),\n    page: int = Query(1, ge=1),\n    per_page: int = Query(10, ge=1),\n    status: str = Query(None),\n    user: dict = Depends(get_current_user)\n):",
+        "detail": "app.controllers.debt_controller",
+        "documentation": {}
+    },
+    {
+        "label": "list_debts",
+        "kind": 2,
+        "importPath": "app.controllers.debt_controller",
+        "description": "app.controllers.debt_controller",
+        "peekOfCode": "def list_debts(\n    db: Session = Depends(get_db),\n    page: int = Query(1, ge=1),\n    per_page: int = Query(10, ge=1),\n    status: str = Query(None),\n    user: dict = Depends(get_current_user)\n):\n    \"\"\"\n    Lista todas as dívidas associadas ao usuário logado com paginação baseada em páginas.\n    \"\"\"",
+        "detail": "app.controllers.debt_controller",
+        "documentation": {}
+    },
+    {
+        "label": "edit_debt",
+        "kind": 2,
+        "importPath": "app.controllers.debt_controller",
+        "description": "app.controllers.debt_controller",
+        "peekOfCode": "def edit_debt(debt_id: str, debt: DebtCreate, db: Session = Depends(get_db), user: dict = Depends(get_current_user)):\n    \"\"\"\n    Edita uma dívida existente. Requer autenticação.\n    \"\"\"\n    updated_debt = update_debt(debt_id, debt, db, user=user)\n    if not updated_debt:\n        raise HTTPException(status_code=404, detail=\"Debt not found\")\n    return updated_debt\n@debt_router.delete(\"/{debt_id}\", response_model=dict)\ndef remove_debt(debt_id: str, db: Session = Depends(get_db), user: dict = Depends(get_current_user)):",
+        "detail": "app.controllers.debt_controller",
+        "documentation": {}
+    },
+    {
+        "label": "remove_debt",
+        "kind": 2,
+        "importPath": "app.controllers.debt_controller",
+        "description": "app.controllers.debt_controller",
+        "peekOfCode": "def remove_debt(debt_id: str, db: Session = Depends(get_db), user: dict = Depends(get_current_user)):\n    \"\"\"\n    Remove uma dívida existente. Requer autenticação.\n    \"\"\"\n    if not delete_debt(debt_id, db, user=user):\n        raise HTTPException(status_code=404, detail=\"Debt not found\")\n    return {\"message\": \"Debt deleted successfully\"}\n@debt_router.get(\"/summary\", response_model=dict)\ndef financial_summary(db: Session = Depends(get_db), user: dict = Depends(get_current_user), date_from = None, date_to = None):\n    \"\"\"",
+        "detail": "app.controllers.debt_controller",
+        "documentation": {}
+    },
+    {
+        "label": "financial_summary",
+        "kind": 2,
+        "importPath": "app.controllers.debt_controller",
+        "description": "app.controllers.debt_controller",
+        "peekOfCode": "def financial_summary(db: Session = Depends(get_db), user: dict = Depends(get_current_user), date_from = None, date_to = None):\n    \"\"\"\n    Fornece um resumo financeiro para o usuário logado.\n    \"\"\"\n    return get_financial_summary(db, user=user, date_from=date_from, date_to=date_to)\n# Rota para atualizar por ID, para alterar o status para pago\n@debt_router.put(\"/update-status-to-payed/{debt_id}\", response_model=dict)\ndef update_status_to_payed(debt_id: str, db: Session = Depends(get_db), user: dict = Depends(get_current_user)):\n    updated_debt = update_status_to_paid(debt_id, db, user=user)\n    if not updated_debt:",
+        "detail": "app.controllers.debt_controller",
+        "documentation": {}
+    },
+    {
+        "label": "update_status_to_payed",
+        "kind": 2,
+        "importPath": "app.controllers.debt_controller",
+        "description": "app.controllers.debt_controller",
+        "peekOfCode": "def update_status_to_payed(debt_id: str, db: Session = Depends(get_db), user: dict = Depends(get_current_user)):\n    updated_debt = update_status_to_paid(debt_id, db, user=user)\n    if not updated_debt:\n        raise HTTPException(status_code=404, detail=\"Debt not found\")\n    return updated_debt",
+        "detail": "app.controllers.debt_controller",
+        "documentation": {}
+    },
+    {
+        "label": "debt_router",
+        "kind": 5,
+        "importPath": "app.controllers.debt_controller",
+        "description": "app.controllers.debt_controller",
+        "peekOfCode": "debt_router = APIRouter()\n@debt_router.post(\"/\", response_model=dict)\ndef add_debt(debt: DebtCreate, user: dict = Depends(get_current_user), db: Session = Depends(get_db)):\n    return create_debt(debt, db, user=user)\n@debt_router.get(\"/\", response_model=dict)\ndef list_debts(\n    db: Session = Depends(get_db),\n    page: int = Query(1, ge=1),\n    per_page: int = Query(10, ge=1),\n    status: str = Query(None),",
+        "detail": "app.controllers.debt_controller",
+        "documentation": {}
+    },
+    {
+        "label": "register_user",
+        "kind": 2,
+        "importPath": "app.controllers.user_controller",
+        "description": "app.controllers.user_controller",
+        "peekOfCode": "def register_user(user: UserCreate, db: Session = Depends(get_db)):\n    existing_user = db.query(User).filter(User.email == user.email).first()\n    if existing_user:\n        raise HTTPException(status_code=400, detail=\"Email already registered\")\n    return create_user(user, db)\n@user_router.post(\"/login\", response_model=dict)\ndef login(user: UserLogin, db: Session = Depends(get_db)):\n    token = authenticate_user(user, db)\n    if not token:\n        raise HTTPException(status_code=400, detail=\"Invalid credentials\")",
+        "detail": "app.controllers.user_controller",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "app.controllers.user_controller",
+        "description": "app.controllers.user_controller",
+        "peekOfCode": "def login(user: UserLogin, db: Session = Depends(get_db)):\n    token = authenticate_user(user, db)\n    if not token:\n        raise HTTPException(status_code=400, detail=\"Invalid credentials\")\n    return {\"access_token\": token, \"token_type\": \"bearer\"}\n@user_router.get(\"/me\", response_model=UserResponse)\ndef read_users_me(current_user: str = Depends(get_current_user), db: Session = Depends(get_db)):\n    db_user = db.query(User).filter(User.email == current_user['email']).first()\n    if db_user is None:\n        raise HTTPException(status_code=404, detail=\"User not found\")",
+        "detail": "app.controllers.user_controller",
+        "documentation": {}
+    },
+    {
+        "label": "read_users_me",
+        "kind": 2,
+        "importPath": "app.controllers.user_controller",
+        "description": "app.controllers.user_controller",
+        "peekOfCode": "def read_users_me(current_user: str = Depends(get_current_user), db: Session = Depends(get_db)):\n    db_user = db.query(User).filter(User.email == current_user['email']).first()\n    if db_user is None:\n        raise HTTPException(status_code=404, detail=\"User not found\")\n    return db_user",
+        "detail": "app.controllers.user_controller",
+        "documentation": {}
+    },
+    {
+        "label": "user_router",
+        "kind": 5,
+        "importPath": "app.controllers.user_controller",
+        "description": "app.controllers.user_controller",
+        "peekOfCode": "user_router = APIRouter()\nSECRET_KEY = os.getenv(\"SECRET_KEY\")\nALGORITHM = \"HS256\"\n@user_router.post(\"/register\", response_model=dict)\ndef register_user(user: UserCreate, db: Session = Depends(get_db)):\n    existing_user = db.query(User).filter(User.email == user.email).first()\n    if existing_user:\n        raise HTTPException(status_code=400, detail=\"Email already registered\")\n    return create_user(user, db)\n@user_router.post(\"/login\", response_model=dict)",
+        "detail": "app.controllers.user_controller",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "app.controllers.user_controller",
+        "description": "app.controllers.user_controller",
+        "peekOfCode": "SECRET_KEY = os.getenv(\"SECRET_KEY\")\nALGORITHM = \"HS256\"\n@user_router.post(\"/register\", response_model=dict)\ndef register_user(user: UserCreate, db: Session = Depends(get_db)):\n    existing_user = db.query(User).filter(User.email == user.email).first()\n    if existing_user:\n        raise HTTPException(status_code=400, detail=\"Email already registered\")\n    return create_user(user, db)\n@user_router.post(\"/login\", response_model=dict)\ndef login(user: UserLogin, db: Session = Depends(get_db)):",
+        "detail": "app.controllers.user_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "app.controllers.user_controller",
+        "description": "app.controllers.user_controller",
+        "peekOfCode": "ALGORITHM = \"HS256\"\n@user_router.post(\"/register\", response_model=dict)\ndef register_user(user: UserCreate, db: Session = Depends(get_db)):\n    existing_user = db.query(User).filter(User.email == user.email).first()\n    if existing_user:\n        raise HTTPException(status_code=400, detail=\"Email already registered\")\n    return create_user(user, db)\n@user_router.post(\"/login\", response_model=dict)\ndef login(user: UserLogin, db: Session = Depends(get_db)):\n    token = authenticate_user(user, db)",
+        "detail": "app.controllers.user_controller",
+        "documentation": {}
+    },
+    {
+        "label": "DebtStatus",
+        "kind": 6,
+        "importPath": "app.models.debt",
+        "description": "app.models.debt",
+        "peekOfCode": "class DebtStatus(str, Enum):\n    PENDENTE = \"pendente\"\n    PAGO = \"pago\"\n    ATRASADO = \"atrasado\"\nclass Debt(Base):\n    __tablename__ = \"debts\"\n    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)\n    title = Column(String, nullable=False)\n    amount = Column(Float, nullable=False)\n    due_date = Column(Date, nullable=False)",
+        "detail": "app.models.debt",
+        "documentation": {}
+    },
+    {
+        "label": "Debt",
+        "kind": 6,
+        "importPath": "app.models.debt",
+        "description": "app.models.debt",
+        "peekOfCode": "class Debt(Base):\n    __tablename__ = \"debts\"\n    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)\n    title = Column(String, nullable=False)\n    amount = Column(Float, nullable=False)\n    due_date = Column(Date, nullable=False)\n    status = Column(String, default=DebtStatus.PENDENTE.value)\n    observations = Column(String, nullable=True)\n    user_id = Column(UUID(as_uuid=True), ForeignKey(\"users.id\"))\n    user = relationship(\"User\", back_populates=\"debts\")",
+        "detail": "app.models.debt",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "peekOfCode": "class User(Base):\n    __tablename__ = \"users\"\n    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)\n    email = Column(String, unique=True, nullable=False)\n    hashed_password = Column(String, nullable=False)\n    debts = relationship(\"Debt\", back_populates=\"user\")\n    created_at = Column(DateTime(timezone=True), server_default=func.now())\n    updated_at = Column(DateTime(timezone=True), server_default=func.now(), onupdate=func.now())",
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 2,
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "peekOfCode": "def hash_password(password: str) -> str:\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_token(data: dict, expires_delta: timedelta = None):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + (expires_delta or timedelta(hours=24))\n    to_encode.update({\"exp\": expire})\n    return jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\ndef get_current_user(db: Session = Depends(get_db), token: str = Depends(oauth2_scheme)):",
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "peekOfCode": "def verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_token(data: dict, expires_delta: timedelta = None):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + (expires_delta or timedelta(hours=24))\n    to_encode.update({\"exp\": expire})\n    return jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\ndef get_current_user(db: Session = Depends(get_db), token: str = Depends(oauth2_scheme)):\n    credentials_exception = HTTPException(\n        status_code=401,",
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_token",
+        "kind": 2,
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "peekOfCode": "def create_token(data: dict, expires_delta: timedelta = None):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + (expires_delta or timedelta(hours=24))\n    to_encode.update({\"exp\": expire})\n    return jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\ndef get_current_user(db: Session = Depends(get_db), token: str = Depends(oauth2_scheme)):\n    credentials_exception = HTTPException(\n        status_code=401,\n        detail=\"Could not validate credentials\",\n        headers={\"WWW-Authenticate\": \"Bearer\"},",
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "peekOfCode": "def get_current_user(db: Session = Depends(get_db), token: str = Depends(oauth2_scheme)):\n    credentials_exception = HTTPException(\n        status_code=401,\n        detail=\"Could not validate credentials\",\n        headers={\"WWW-Authenticate\": \"Bearer\"},\n    )\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        email: str = payload.get(\"sub\")\n        if email is None:",
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "peekOfCode": "SECRET_KEY = os.getenv(\"SECRET_KEY\")\nALGORITHM = \"HS256\"\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"login\")\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef hash_password(password: str) -> str:\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_token(data: dict, expires_delta: timedelta = None):\n    to_encode = data.copy()",
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "peekOfCode": "ALGORITHM = \"HS256\"\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"login\")\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef hash_password(password: str) -> str:\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_token(data: dict, expires_delta: timedelta = None):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + (expires_delta or timedelta(hours=24))",
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"login\")\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef hash_password(password: str) -> str:\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_token(data: dict, expires_delta: timedelta = None):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + (expires_delta or timedelta(hours=24))\n    to_encode.update({\"exp\": expire})",
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef hash_password(password: str) -> str:\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_token(data: dict, expires_delta: timedelta = None):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + (expires_delta or timedelta(hours=24))\n    to_encode.update({\"exp\": expire})\n    return jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)",
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_debt",
+        "kind": 2,
+        "importPath": "app.services.debt_service",
+        "description": "app.services.debt_service",
+        "peekOfCode": "def create_debt(debt: DebtCreate, db: Session = Depends(get_db), user: dict = None):\n    debt_data = debt.dict()\n    debt_data.pop('status', None)\n    # Verifica se a data de vencimento é menor que a data atual\n    if debt.status:\n        status = debt.status\n    elif debt.due_date < datetime.now().date():\n        status = DebtStatus.ATRASADO.value\n    else:\n        status = DebtStatus.PENDENTE.value",
+        "detail": "app.services.debt_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_debts",
+        "kind": 2,
+        "importPath": "app.services.debt_service",
+        "description": "app.services.debt_service",
+        "peekOfCode": "def get_all_debts(db: Session = Depends(get_db), page: int = 1, per_page: int = 10, status: str = None, user: dict = None):  \n    total_items = db.query(Debt).filter(Debt.user_id == user[\"id\"]).count()  \n    total_pages = ceil(total_items / per_page)  \n    if page < 1 or (page > total_pages and total_items > 0):  \n        return {  \n            \"page\": page,  \n            \"per_page\": per_page,  \n            \"data\": [],  \n            \"total\": total_items,  \n            \"current\": page,  ",
+        "detail": "app.services.debt_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_status_to_paid",
+        "kind": 2,
+        "importPath": "app.services.debt_service",
+        "description": "app.services.debt_service",
+        "peekOfCode": "def update_status_to_paid(debt_id: str, db: Session = Depends(get_db), user: dict = None):\n    db_debt = db.query(Debt).filter(Debt.id == debt_id).filter(Debt.user_id == user[\"id\"]).first()\n    if db_debt:\n        db_debt.status = DebtStatus.PAGO.value\n        db.commit()\n        db.refresh(db_debt)\n        return DebtResponse.from_orm(db_debt).dict()\n    return None\ndef update_debt(debt_id: str, debt: DebtCreate, db: Session, user: dict = None):\n    db_debt = db.query(Debt).filter(Debt.id == debt_id).filter(Debt.user_id == user[\"id\"]).first()",
+        "detail": "app.services.debt_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_debt",
+        "kind": 2,
+        "importPath": "app.services.debt_service",
+        "description": "app.services.debt_service",
+        "peekOfCode": "def update_debt(debt_id: str, debt: DebtCreate, db: Session, user: dict = None):\n    db_debt = db.query(Debt).filter(Debt.id == debt_id).filter(Debt.user_id == user[\"id\"]).first()\n    if db_debt:\n        for key, value in debt.dict().items():\n            if key == 'due_date':\n                if isinstance(value, str):\n                    try:\n                        db_debt.due_date = datetime.strptime(value, '%d/%m/%Y').date()\n                    except ValueError:\n                        raise ValueError(\"Data deve estar no formato 'dd/mm/yyyy'\")",
+        "detail": "app.services.debt_service",
+        "documentation": {}
+    },
+    {
+        "label": "delete_debt",
+        "kind": 2,
+        "importPath": "app.services.debt_service",
+        "description": "app.services.debt_service",
+        "peekOfCode": "def delete_debt(debt_id: str, db: Session = Depends(get_db), user: dict = None):\n    db_debt = db.query(Debt).filter(Debt.id == debt_id).filter(Debt.user_id == user[\"id\"]).first()\n    if db_debt:\n        db.delete(db_debt)\n        db.commit()\n        return True\n    elif not db_debt:\n        return False\n    return False\ndef get_financial_summary(db: Session = Depends(get_db), user: dict = None, date_from = None, date_to = None):",
+        "detail": "app.services.debt_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_financial_summary",
+        "kind": 2,
+        "importPath": "app.services.debt_service",
+        "description": "app.services.debt_service",
+        "peekOfCode": "def get_financial_summary(db: Session = Depends(get_db), user: dict = None, date_from = None, date_to = None):\n    try:  \n        date_from = datetime.strptime(date_from, '%d/%m/%Y') if date_from else None  \n        date_to = datetime.strptime(date_to, '%d/%m/%Y') if date_to else None  \n    except ValueError as e:  \n        raise HTTPException(status_code=400, detail=\"O formato da data é inválido. Use o formato DD/MM/YYYY.\") from e  \n    if date_from and date_to:\n        total_debts = db.query(Debt).filter(Debt.due_date.between(date_from, date_to)).filter(Debt.user_id == user[\"id\"])\n        total_pending = db.query(Debt).filter(Debt.due_date.between(date_from, date_to)).filter(Debt.status == DebtStatus.PENDENTE.value).filter(Debt.user_id == user[\"id\"])\n        total_paid = db.query(Debt).filter(Debt.due_date.between(date_from, date_to)).filter(Debt.status == DebtStatus.PAGO.value).filter(Debt.user_id == user[\"id\"])",
+        "detail": "app.services.debt_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "app.services.user_service",
+        "description": "app.services.user_service",
+        "peekOfCode": "def create_user(user: UserCreate, db: Session = Depends(get_db)):\n    existing_user = db.query(User).filter(User.email == user.email).first()\n    if existing_user:\n        raise HTTPException(status_code=400, detail=\"Email already registered\")\n    hashed_password = hash_password(user.password)\n    db_user = User(email=user.email, hashed_password=hashed_password)\n    db.add(db_user)\n    db.commit()\n    db.refresh(db_user)\n    return {\"message\": \"User created successfully!\"}",
+        "detail": "app.services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_user",
+        "kind": 2,
+        "importPath": "app.services.user_service",
+        "description": "app.services.user_service",
+        "peekOfCode": "def authenticate_user(user: UserLogin, db: Session = Depends(get_db)):\n    db_user = db.query(User).filter(User.email == user.email).first()\n    if db_user and verify_password(user.password, db_user.hashed_password):\n        return create_token({\"sub\": db_user.email})\n    return None\ndef update_overdue_debts(db: Session = Depends(get_db)):\n    overdue_debts = db.query(Debt).filter(Debt.due_date < datetime.now(), Debt.status != 'pago').all()\n    for debt in overdue_debts:\n        debt.status = 'atrasado'\n        db.commit()",
+        "detail": "app.services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_overdue_debts",
+        "kind": 2,
+        "importPath": "app.services.user_service",
+        "description": "app.services.user_service",
+        "peekOfCode": "def update_overdue_debts(db: Session = Depends(get_db)):\n    overdue_debts = db.query(Debt).filter(Debt.due_date < datetime.now(), Debt.status != 'pago').all()\n    for debt in overdue_debts:\n        debt.status = 'atrasado'\n        db.commit()\n    return None",
+        "detail": "app.services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "load_env",
+        "kind": 2,
+        "importPath": "app.utils.env_loader",
+        "description": "app.utils.env_loader",
+        "peekOfCode": "def load_env():\n    load_dotenv()\n    # Valida se as principais variáveis estão configuradas\n    required_env_vars = [\"DATABASE_URL\", \"SECRET_KEY\", \"DB_USER\", \"DB_PASS\", \"DB_NAME\"]\n    for var in required_env_vars:\n        if not os.getenv(var):\n            raise EnvironmentError(f\"Missing required environment variable: {var}\")",
+        "detail": "app.utils.env_loader",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "def get_db() -> Session:\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "DATABASE_URL = os.getenv(\"DATABASE_URL\", \"postgresql://db_user:db_pass123@localhost:5432/debts_db\")\nengine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db() -> Session:\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "engine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db() -> Session:\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db() -> Session:\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "Base = declarative_base()\ndef get_db() -> Session:\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "scheduled_task",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def scheduled_task():\n    db = next(get_db())\n    update_overdue_debts(db)\n# Adiciona a tarefa ao agendador para ser executada a cada minuto\nscheduler.add_job(scheduled_task, 'interval', hours=1)\nscheduler.start()\n# Certifique-se de que o agendador é parado corretamente ao encerrar a aplicação\nimport atexit\natexit.register(lambda: scheduler.shutdown())\n# Configurando CORS",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "hello_world",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def hello_world():\n    return {\"message\": \"Hello, World! 👋 Desafio Técnico SERASA.\"}\n# Rotas da API\napp.include_router(user_router, prefix=\"/users\", tags=[\"Users\"])\napp.include_router(debt_router, prefix=\"/debts\", tags=[\"Debts\"])",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "app = FastAPI()\n# Inicializa o agendador\nscheduler = BackgroundScheduler()\n# Função que será chamada pelo agendador\ndef scheduled_task():\n    db = next(get_db())\n    update_overdue_debts(db)\n# Adiciona a tarefa ao agendador para ser executada a cada minuto\nscheduler.add_job(scheduled_task, 'interval', hours=1)\nscheduler.start()",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "scheduler",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "scheduler = BackgroundScheduler()\n# Função que será chamada pelo agendador\ndef scheduled_task():\n    db = next(get_db())\n    update_overdue_debts(db)\n# Adiciona a tarefa ao agendador para ser executada a cada minuto\nscheduler.add_job(scheduled_task, 'interval', hours=1)\nscheduler.start()\n# Certifique-se de que o agendador é parado corretamente ao encerrar a aplicação\nimport atexit",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class UserCreate(BaseModel):\n    email: str\n    password: str\nclass UserLogin(BaseModel):\n    email: str\n    password: str\nclass UserResponse(BaseModel):\n    id: uuid.UUID\n    email: str\n    created_at: datetime",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class UserLogin(BaseModel):\n    email: str\n    password: str\nclass UserResponse(BaseModel):\n    id: uuid.UUID\n    email: str\n    created_at: datetime\n    updated_at: datetime\n    class Config:\n        from_attributes = True",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class UserResponse(BaseModel):\n    id: uuid.UUID\n    email: str\n    created_at: datetime\n    updated_at: datetime\n    class Config:\n        from_attributes = True\nclass DebtCreate(BaseModel):\n    title: str\n    amount: float",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "DebtCreate",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class DebtCreate(BaseModel):\n    title: str\n    amount: float\n    due_date: date | str\n    status: str | None = \"pendente\"\n    observations: Optional[str] = None\nclass DebtStatus(str, Enum):\n    PENDENTE = \"pendente\"\n    PAGO = \"pago\"\n    ATRASADO = \"atrasado\"",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "DebtStatus",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class DebtStatus(str, Enum):\n    PENDENTE = \"pendente\"\n    PAGO = \"pago\"\n    ATRASADO = \"atrasado\"\nclass DebtBase(BaseModel):\n    title: str\n    amount: float\n    due_date: date\n    status: DebtStatus\n    observations: Optional[str] = None",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "DebtBase",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class DebtBase(BaseModel):\n    title: str\n    amount: float\n    due_date: date\n    status: DebtStatus\n    observations: Optional[str] = None\nclass DebtResponse(DebtBase):\n    id: uuid.UUID\n    created_at: datetime\n    updated_at: datetime",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "DebtResponse",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class DebtResponse(DebtBase):\n    id: uuid.UUID\n    created_at: datetime\n    updated_at: datetime\n    class Config:\n        from_attributes = True",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.345e5fd4f6ac_initial_migration",
+        "description": "migrations.versions.345e5fd4f6ac_initial_migration",
+        "peekOfCode": "def upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.execute(\"\"\"\n        CREATE TABLE IF NOT EXISTS users (\n            id UUID NOT NULL,\n            email VARCHAR NOT NULL,\n            hashed_password VARCHAR NOT NULL,\n            created_at TIMESTAMP WITH TIME ZONE DEFAULT now(),\n            updated_at TIMESTAMP WITH TIME ZONE DEFAULT now(),\n            PRIMARY KEY (id),",
+        "detail": "migrations.versions.345e5fd4f6ac_initial_migration",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.345e5fd4f6ac_initial_migration",
+        "description": "migrations.versions.345e5fd4f6ac_initial_migration",
+        "peekOfCode": "def downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('debts')\n    op.drop_table('users')\n    # ### end Alembic commands ###",
+        "detail": "migrations.versions.345e5fd4f6ac_initial_migration",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_offline():\n    \"\"\"Executa migrações em modo offline.\"\"\"\n    url = context.config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},\n    )\n    with context.begin_transaction():",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_online():\n    \"\"\"Executa migrações em modo online.\"\"\"\n    connectable = engine_from_config(\n        context.config.get_section(context.config.config_ini_section),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )\n    with connectable.connect() as connection:\n        context.configure(\n            connection=connection,",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "target_metadata = Base.metadata\ndef run_migrations_offline():\n    \"\"\"Executa migrações em modo offline.\"\"\"\n    url = context.config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},\n    )",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "test_client",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def test_client():\n    client = TestClient(app)\n    yield client",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "tests.test_config",
+        "description": "tests.test_config",
+        "peekOfCode": "DATABASE_URL = os.getenv(\"DATABASE_URL\")",
+        "detail": "tests.test_config",
+        "documentation": {}
+    },
+    {
+        "label": "db_session",
+        "kind": 2,
+        "importPath": "tests.test_database",
+        "description": "tests.test_database",
+        "peekOfCode": "def db_session():\n    \"\"\"Fixture to provide a database session for testing.\"\"\"\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\ndef test_get_db(db_session):\n    \"\"\"Test the get_db function to ensure it yields a valid session.\"\"\"\n    db_generator = get_db()",
+        "detail": "tests.test_database",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_db",
+        "kind": 2,
+        "importPath": "tests.test_database",
+        "description": "tests.test_database",
+        "peekOfCode": "def test_get_db(db_session):\n    \"\"\"Test the get_db function to ensure it yields a valid session.\"\"\"\n    db_generator = get_db()\n    db_instance = next(db_generator)\n    assert isinstance(db_instance, Session)\n    db_generator.close()\n@patch(\"app.database.SessionLocal\", return_value=Mock(Session))  \ndef test_get_db(mock_session_local):  \n    \"\"\"Test the get_db function to ensure it yields a valid session.\"\"\"  \n    # Test if get_db return a generator  ",
+        "detail": "tests.test_database",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_db",
+        "kind": 2,
+        "importPath": "tests.test_database",
+        "description": "tests.test_database",
+        "peekOfCode": "def test_get_db(mock_session_local):  \n    \"\"\"Test the get_db function to ensure it yields a valid session.\"\"\"  \n    # Test if get_db return a generator  \n    assert hasattr(get_db(), '__iter__')  \n    db_generator = get_db()  \n    db_instance = next(db_generator)  \n    # Test if first output of the generator is a Session instance  \n    assert isinstance(db_instance, Session)  \n    # Test if SessionLocal was called once, creating a new session  \n    mock_session_local.assert_called_once()  ",
+        "detail": "tests.test_database",
+        "documentation": {}
+    },
+    {
+        "label": "test_load_env_success",
+        "kind": 2,
+        "importPath": "tests.test_env_loader",
+        "description": "tests.test_env_loader",
+        "peekOfCode": "def test_load_env_success(monkeypatch):\n    # Define variáveis de ambiente necessárias para o teste\n    monkeypatch.setenv(\"DATABASE_URL\", \"postgresql://db_user:db_pass123@localhost:5432/debts_db\")\n    monkeypatch.setenv(\"SECRET_KEY\", \"supersecretkey\")\n    monkeypatch.setenv(\"DB_USER\", \"db_user\")\n    monkeypatch.setenv(\"DB_PASS\", \"db_pass123\")\n    monkeypatch.setenv(\"DB_NAME\", \"debts_db\")\n    load_env()  # Chama a função que carrega as variáveis de ambiente\n    assert os.getenv(\"DATABASE_URL\") == \"postgresql://db_user:db_pass123@localhost:5432/debts_db\"\n    assert os.getenv(\"SECRET_KEY\") == \"supersecretkey\"",
+        "detail": "tests.test_env_loader",
+        "documentation": {}
+    },
+    {
+        "label": "test_load_env",
+        "kind": 2,
+        "importPath": "tests.test_env_loader",
+        "description": "tests.test_env_loader",
+        "peekOfCode": "def test_load_env(mock_load_dotenv, mock_getenv):  \n    # Se todas as variáveis de ambiente estiverem configuradas  \n    mock_getenv.side_effect = lambda var: 'mock_value'  \n    try:  \n        load_env()  \n    except EnvironmentError:  \n        pytest.fail(\"EnvironmentError foi levantado, mas não era esperado\")  \n    print(mock_load_dotenv.mock_calls)  # Printando chamadas para mock_load_dotenv  \n    # Se qualquer variável de ambiente não estiver configurada  \n    mock_getenv.side_effect = lambda var: 'mock_value' if var != 'DB_PASS' else None  ",
+        "detail": "tests.test_env_loader",
+        "documentation": {}
+    },
+    {
+        "label": "test_load_env",
+        "kind": 2,
+        "importPath": "tests.test_env_loader",
+        "description": "tests.test_env_loader",
+        "peekOfCode": "def test_load_env():  \n    with patch('os.getenv', return_value='mock_value'):  \n        try:  \n            load_env()  \n        except EnvironmentError:  \n            pytest.fail(\"EnvironmentError foi levantado, mas não era esperado\")  \n    with patch('os.getenv', side_effect= lambda var: 'mock_value' if var != 'DB_PASS' else None):  \n        with pytest.raises(EnvironmentError, match=\"Missing required environment variable: DB_PASS\"):  \n            load_env()",
+        "detail": "tests.test_env_loader",
+        "documentation": {}
+    },
+    {
+        "label": "test_client",
+        "kind": 2,
+        "importPath": "tests.test_main",
+        "description": "tests.test_main",
+        "peekOfCode": "def test_client():\n    client = TestClient(app)\n    yield client\ndef test_hello_world(test_client):\n    response = test_client.get(\"/\")\n    assert response.status_code == 200\n    assert response.json() == {\"message\": \"Hello, World! 👋 Desafio Técnico SERASA.\"}\ndef test_register_user_invalid_data(test_client):\n    response = test_client.post(\"/users/register\", json={\n       \"username\": \"teste\",",
+        "detail": "tests.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "test_hello_world",
+        "kind": 2,
+        "importPath": "tests.test_main",
+        "description": "tests.test_main",
+        "peekOfCode": "def test_hello_world(test_client):\n    response = test_client.get(\"/\")\n    assert response.status_code == 200\n    assert response.json() == {\"message\": \"Hello, World! 👋 Desafio Técnico SERASA.\"}\ndef test_register_user_invalid_data(test_client):\n    response = test_client.post(\"/users/register\", json={\n       \"username\": \"teste\",\n       \"pass\": \"test\"\n    })\n    assert response.status_code == 422",
+        "detail": "tests.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "test_register_user_invalid_data",
+        "kind": 2,
+        "importPath": "tests.test_main",
+        "description": "tests.test_main",
+        "peekOfCode": "def test_register_user_invalid_data(test_client):\n    response = test_client.post(\"/users/register\", json={\n       \"username\": \"teste\",\n       \"pass\": \"test\"\n    })\n    assert response.status_code == 422\ndef test_login_user_success(test_client):\n    response = test_client.post(\"/users/login\", json={\n        \"email\": \"testuser@example.com\",\n        \"password\": \"testpassword\"",
+        "detail": "tests.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "test_login_user_success",
+        "kind": 2,
+        "importPath": "tests.test_main",
+        "description": "tests.test_main",
+        "peekOfCode": "def test_login_user_success(test_client):\n    response = test_client.post(\"/users/login\", json={\n        \"email\": \"testuser@example.com\",\n        \"password\": \"testpassword\"\n    })\n    assert response.status_code == 200\n    assert \"access_token\" in response.json()\ndef test_login_user_invalid_credentials(test_client):\n    response = test_client.post(\"/users/login\", json={\n        \"email\": \"invalid@example.com\",",
+        "detail": "tests.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "test_login_user_invalid_credentials",
+        "kind": 2,
+        "importPath": "tests.test_main",
+        "description": "tests.test_main",
+        "peekOfCode": "def test_login_user_invalid_credentials(test_client):\n    response = test_client.post(\"/users/login\", json={\n        \"email\": \"invalid@example.com\",\n        \"password\": \"wrongpassword\"\n    })\n    assert response.status_code == 400\ndef test_add_debt(test_client):\n    login_response = test_client.post(\"/users/login\", json={\n        \"email\": \"testuser@example.com\",\n        \"password\": \"testpassword\"",
+        "detail": "tests.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "test_add_debt",
+        "kind": 2,
+        "importPath": "tests.test_main",
+        "description": "tests.test_main",
+        "peekOfCode": "def test_add_debt(test_client):\n    login_response = test_client.post(\"/users/login\", json={\n        \"email\": \"testuser@example.com\",\n        \"password\": \"testpassword\"\n    })\n    token = login_response.json()[\"access_token\"]\n    headers = {\"Authorization\": f\"Bearer {token}\"}\n    response = test_client.post(\"/debts/\", json={\n        \"title\": \"Cartão de Crédito\",\n        \"amount\": 1000.00,",
+        "detail": "tests.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "test_add_debt_without_auth",
+        "kind": 2,
+        "importPath": "tests.test_main",
+        "description": "tests.test_main",
+        "peekOfCode": "def test_add_debt_without_auth(test_client):\n    response = test_client.post(\"/debts/\", json={\n        \"title\": \"Cartão de Crédito\",\n        \"amount\": 1000.00,\n        \"due_date\": \"2024-12-31\",\n        \"status\": \"Pendente\"\n    })\n    assert response.status_code == 401\ndef test_financial_summary(test_client):\n    login_response = test_client.post(\"/users/login\", json={",
+        "detail": "tests.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "test_financial_summary",
+        "kind": 2,
+        "importPath": "tests.test_main",
+        "description": "tests.test_main",
+        "peekOfCode": "def test_financial_summary(test_client):\n    login_response = test_client.post(\"/users/login\", json={\n        \"email\": \"testuser@example.com\",\n        \"password\": \"testpassword\"\n    })\n    token = login_response.json()[\"access_token\"]\n    headers = {\"Authorization\": f\"Bearer {token}\"}\n    response = test_client.get(\"/debts/summary\", headers=headers)\n    assert response.status_code == 200",
+        "detail": "tests.test_main",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "tests.test_main",
+        "description": "tests.test_main",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n@pytest.fixture(scope=\"module\")\ndef test_client():\n    client = TestClient(app)\n    yield client\ndef test_hello_world(test_client):\n    response = test_client.get(\"/\")\n    assert response.status_code == 200\n    assert response.json() == {\"message\": \"Hello, World! 👋 Desafio Técnico SERASA.\"}\ndef test_register_user_invalid_data(test_client):",
+        "detail": "tests.test_main",
+        "documentation": {}
+    }
+]

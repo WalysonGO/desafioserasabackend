@@ -1,0 +1,57 @@
+version: "3.8"
+
+services:
+    app:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        container_name: fastapi_app
+        restart: always
+        ports:
+            - "8000:8000"
+        depends_on:
+            - pg_db
+            - redis
+        environment:
+            - DB_USER=${DB_USER}
+            - DB_PASS=${DB_PASS}
+            - DB_NAME=${DB_NAME}
+            - DATABASE_URL=${DATABASE_URL}
+            - REDIS_HOST=${REDIS_HOST}
+            - REDIS_PORT=${REDIS_PORT}
+            - SECRET_KEY=${SECRET_KEY}
+
+    pg_db:
+        image: postgres:15
+        container_name: postgres_container
+        restart: always
+        environment:
+            - POSTGRES_USER=${DB_USER}
+            - POSTGRES_PASSWORD=${DB_PASS}
+            - POSTGRES_DB=${DB_NAME}
+        ports:
+        - "5432:5432"
+        volumes:
+        - postgres_data:/var/lib/postgresql/data
+
+    adminer:
+        image: adminer
+        container_name: adminer_container
+        ports:
+        - "8080:8080"
+        depends_on:
+        - pg_db
+    
+    redis:
+        image: redis:6.2-alpine
+        container_name: redis_container
+        restart: always
+        ports:
+        - "6379:6379"
+        volumes:
+        - redis_data:/data
+        command: ["redis-server", "--save", "60", "1", "--loglevel", "warning"]
+
+volumes:
+    postgres_data:
+    redis_data:
