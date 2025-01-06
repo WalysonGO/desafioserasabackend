@@ -2,6 +2,8 @@
 
 Esta aplicação foi desenvolvida para gerenciar dívidas pessoais, utilizando **FastAPI** e seguindo boas práticas de **Clean Code** e **Design Patterns**. A API oferece suporte a autenticação JWT, registro de usuários, cadastro, edição e exclusão de dívidas, além de fornecer um resumo financeiro.
 
+FRONTEND: https://github.com/WalysonGO/desafioserasafrontend
+
 ## Tecnologias Usadas
 
 - **FastAPI**: Framework principal para a API.
